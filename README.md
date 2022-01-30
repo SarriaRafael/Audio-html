@@ -5,7 +5,7 @@
 # Individual Project - Henry Countries
 
 <p align="left">
-  <img height="200" src="public\RafaMusica.png" />
+  <img height="400" src="public\RafaMusica.png" />
 </p>
 
 # Proyecto AUDIO-HTML
